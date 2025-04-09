@@ -31,6 +31,6 @@ It includes **Exploratory Data Analysis (EDA)**, **Power BI Dashboards**, a **Fi
 
 - Python (Pandas, Matplotlib, Seaborn)
 - Power BI
-- Jupyter Notebook
+- Google Collab
 - Microsoft Word / PPT
 - Gamma.ai (for slide creation)
